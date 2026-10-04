@@ -1,0 +1,13 @@
+table,rows,columns,missing_cells,duplicate_rows,numeric_cols,text_cols
+branches,6,13,0,0,5,8
+customers,500,15,0,0,5,10
+products,30,23,0,0,11,12
+suppliers,8,12,0,0,4,8
+inventory_master,180,8,0,0,5,3
+stock_ledger,237230,9,0,0,2,7
+sales_orders_header,20000,11,0,0,3,8
+sales_orders_lines,130402,9,0,0,7,2
+purchase_orders_header,24000,10,2370,0,3,7
+purchase_orders_lines,155495,9,0,0,7,2
+invoices,18033,10,0,0,3,7
+payments,19257,5,0,0,1,4
